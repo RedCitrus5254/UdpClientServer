@@ -1,0 +1,6 @@
+C:\Users\Dmitrii\source\repos\UdpTestingClientServer\UdpTestingClientServer\bin\Debug\UdpTestingClientServer.exe.config
+C:\Users\Dmitrii\source\repos\UdpTestingClientServer\UdpTestingClientServer\bin\Debug\UdpTestingClientServer.exe
+C:\Users\Dmitrii\source\repos\UdpTestingClientServer\UdpTestingClientServer\bin\Debug\UdpTestingClientServer.pdb
+C:\Users\Dmitrii\source\repos\UdpTestingClientServer\UdpTestingClientServer\obj\Debug\UdpTestingClientServer.csprojAssemblyReference.cache
+C:\Users\Dmitrii\source\repos\UdpTestingClientServer\UdpTestingClientServer\obj\Debug\UdpTestingClientServer.exe
+C:\Users\Dmitrii\source\repos\UdpTestingClientServer\UdpTestingClientServer\obj\Debug\UdpTestingClientServer.pdb
